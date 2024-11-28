@@ -1,0 +1,1 @@
+{file_n_name}: {DocCategory}: {DVotes}{file_n_name}: {DocCategory}: {DVotes}{file_n_name}: {DocCategory}: {DVotes}{file_n_name}: {DocCategory}: {DVotes}Attention: the following non txt file has been detected:.DS_Store{file_n_name}: {DocCategory}: {DVotes}{file_n_name}: {DocCategory}: {DVotes}
