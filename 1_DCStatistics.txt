@@ -1,0 +1,20 @@
+*** Statistics
+Total txt files: 38
+sports: 13.16%
+entertainment: 15.79%
+business: 15.79%
+graphics: 13.16%
+medical: 10.53%
+space: 13.16%
+historical: 13.16%
+UNKNOWN: 0.05%
+*** Top 10 keywords
+training: 3
+participate: 0
+score: 0
+title: 0
+minutes: 0
+team: 0
+record: 0
+world: 0
+medal: 0
